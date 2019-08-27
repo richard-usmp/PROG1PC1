@@ -1,0 +1,1 @@
+La multiplexación permite recibir y enviar varios mensajes al mismo tiempo. Esto reduce el numero de conexiones, y a su vez mejora la velocidad de carga de la pagina web.
