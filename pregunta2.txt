@@ -1,0 +1,7 @@
+Objetivos:
+-Evitar tener que pagar por un versionador.
+-Configurar como se quiera este versionador para mejorarlo con el tiempo.
+-Tener un versionador propio y libre para usarse.
+
+Creador de Git: Linus Tordvard
+
